@@ -93,19 +93,25 @@ pip install streamlit torch torchvision Pillow python-dotenv langchain langchain
 You need to create .env in the same directory and write your own OPENAI API KEY in the following way: OPENAI_API_KEY=replace_this_with_your_key
 
 🔹 3. Run the application
+
 Start the app using:
 
 streamlit run wildfire_detector.py
+
 🧪 How to Use the App
+
 Once the app is running, here’s how to interact with it:
 
 🔥 Left Side – Wildfire Detection
+
 Upload an Image On the left panel, click on "Browse Files" or Drag and drop files and upload a photo (formats supported: JPG, JPEG, PNG, BMP, TIFF, TIF). The maximum filesize of each image is 200MB.
 
 Preview Your Image
+
 After uploading, the image will appear below the upload button.
 
 Click "Analyze for Wildfire"
+
 Press the "🔍 Analyze for Wildfire" button under the image.
 
 If fire is detected: You’ll see “🔥 Fire Detected!”
@@ -121,18 +127,11 @@ A confidence score will also be shown.
 <img width="550" height="853" alt="image" src="https://github.com/user-attachments/assets/2590aedd-b934-4f9d-879d-cede4a56f386" />
 
 
-📚 RAG Documents
-FEMA Wildfire Safety
-UNICEF Wildfire Smoke Guide
-Oregon Wildfire FAQs
-The Washington State Department of Natural Resources
-The Nature Conservancy
-County of San Diego
-Idaho State
-
-
 
 👥 Authors
+
 Dilrabo Khidirova
+
 Abdumutalib Begmuratov
+
 Ulugbek Khalilov
