@@ -2,7 +2,7 @@
 
 A deep learning project that combines wildfire image classification with a chatbot-style interface using RAG and GPT-4 for interactive wildfire information.
 
-🔍 Objective
+# 🔍 Objective
 
 This project aims to:
 
@@ -14,7 +14,7 @@ It combines Computer Vision and Natural Language Processing to assist in wildfir
 
 📂 Dataset
 
-🔥 Image Classification
+# 🔥 Image Classification
 
 Source: Kaggle wildfire dataset
 
@@ -38,7 +38,7 @@ Retrieved using cosine similarity
 
 You will find full list of documents with their original links below.
 
-🧠 Methodology
+# 🧠 Methodology
 
 1. 🔬 Image Classification
 
@@ -72,7 +72,7 @@ Climate and fire correlation
 
 Document-based factual Q&A
 
-🚀 Installation
+# 🚀 Installation
 
 To run this project locally:
 
@@ -128,7 +128,7 @@ A confidence score will also be shown.
 
 
 
-👥 Authors
+# 👥 Authors
 
 Dilrabo Khidirova
 
